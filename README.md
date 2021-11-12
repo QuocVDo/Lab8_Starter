@@ -13,5 +13,6 @@ NO PARTNER
 4) Yes, for such a simple and encapsulated feature, it should be easy to implement unit testing. We are testing a single encapsulated unit to make sure that single aspect is working properly.
 
 ---
-SCREENSHOT IS IN ARE IN THE SCREENSHOTS FOLDER!!!!!
+SCREENSHOT IS IN THE SCREENSHOTS FOLDER!!!!!
+<br>
 **I commented all the extra console.logs that the provided code added for a nicer screenshot**
